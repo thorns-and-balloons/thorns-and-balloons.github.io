@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://block-breaker.gitlab.io/</loc>
+  <lastmod>2025-05-26T12:02:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/index.html</loc>
+  <lastmod>2025-05-26T12:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/tetris.html</loc>
+  <lastmod>2025-05-26T12:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/bricky-blast.html</loc>
+  <lastmod>2025-05-26T12:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/block-puzzle.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/sandtrix.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/blockdoku.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/color-blast.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/block-blast-solver.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/2048.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/gatotag.html</loc>
+  <lastmod>2025-05-26T12:02:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/bubble-shooter.html</loc>
+  <lastmod>2025-05-26T12:02:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://block-breaker.gitlab.io/block-blast.html</loc>
+  <lastmod>2025-05-26T12:02:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
