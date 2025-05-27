@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://block-breaker.gitlab.io/sitemap.xml
+Sitemap:https://thorns-and-balloons.github.io/sitemap.xml
